@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
     <img src="./Logo.png" width="100" style="border-radius: 50%" />
-    <h2 style="font-weight: bold">Minh Tri Bui</h2>
+    <h2 style="font-weight: bold">Joseph Bui Minh Tri</h2>
     <div id="badges">
     <a href="https://twitter.com/minhtribui153">
         <img src="https://img.shields.io/badge/minhtribui153-blue?style=for-the-badge&logo=twitter" alt="NPM Badge"/>
