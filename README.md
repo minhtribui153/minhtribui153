@@ -42,6 +42,6 @@ I'm also a:
 ---
 
 ## 🔥 My Statistics
-[![Minh Tri's GitHub stats](https://github-readme-stats.vercel.app/api?username=tribui141108&show_icons=true&layout=compact&theme=dark)](https://github.com/tribui141108)
+[![Minh Tri's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhtribui153&show_icons=true&layout=compact&theme=dark)](https://github.com/minhtribui153)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuyy&layout=compact&theme=dark)](https://github.com/tribui141108)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhtribui153&layout=compact&theme=dark)](https://github.com/minhtribui153)
