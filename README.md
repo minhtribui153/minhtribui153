@@ -12,7 +12,7 @@
     </a>
     <br>
     <a>
-        <img src="https://dcbadge.vercel.app/api/shield/710319131983085599" alt="NPM Badge"/>
+        <img src="https://dcbadge.limes.pink/api/shield/710319131983085599" alt="NPM Badge"/>
     </a>
     </div>
 </div >
