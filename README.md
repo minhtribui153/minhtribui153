@@ -19,7 +19,7 @@
 <br>
 
 # 🇸🇬 About Me
-Both **Student** and **Software Engineer** situated in Singapore
+A **Student** passionate in Software Development situated in Singapore
 
 I'm also a:
 - **Game Developer**
