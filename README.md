@@ -19,11 +19,15 @@
 <br>
 
 # 🇸🇬 About Me
-A **Student** passionate in Software Development based in Singapore
+A **Student** passionate in Software Development based in Singapore.
 
-I'm also a:
-- **Game Developer**
-- **Discord Bot Developer**
+I am dedicated to creating innovative solutions for complex challenges.
+I have showcased my technical skills through a variety of projects, including the development of Discord Bots to enhance users' experiences.
+
+- Hands-on experience in IT
+- Likes to code and build robots
+- Joined the course &quot;Introduction to AI and Machine Learning on Google Cloud&quot; to have a solid foundation in AI
+- Helped in-charge of Logistics for my CCA
 
 ---
 
