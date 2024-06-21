@@ -20,17 +20,16 @@
 
 # 🇸🇬 About Me
 A passionate software developer with a keen interest in Artificial Intelligence.
-My journey in the tech world began with the "I can be a Technopreneur" Advanced Learning
-Module at Singapore Polytechnic, which ignited my enthusiasm for innovative technology
-solutions.
-
-I have showcased my skills by creating Discord Bots to enhance users' experiences, and working on AI projects such as RAG and predictive projects.
-Eager to expand my knowledge and skills, I am seeking opportunities at institutions that prioritize innovation and embrace the latest technological advancements.
 
 - Hands-on experience in IT
 - Likes to code and build robots
 - Joined the course "Introduction to AI and Machine Learning on Google Cloud" to have a solid foundation in AI
 - Helped in-charge of Logistics for my CCA
+- Created Discord Bots to enhance users' experiences
+- Worked on AI and Data projects such as RAG, predictive projects and the Steam games dashboard
+- Currently working on a C++ Neural Network project and a game called Wavecore (coming soon)
+
+Eager to expand my knowledge and skills, I am seeking opportunities at institutions that prioritize innovation and embrace the latest technological advancements.
 
 ---
 
@@ -49,7 +48,7 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 ---
 
 
-## 🏆 Awards
+## 🏆 Awards (School-based)
 - Young Engineer Award (Applied Learning) by Singapore Polytechnic
 - 1st Place in Drone Programming (STEM ALP Day) by Serangoon Secondary School
 - Bronze Award in Singapore Math Kangaroo Contest (SMKC) 2024 at Secondary 4/Grade 10
@@ -57,10 +56,7 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 
 ---
 
-## 🧾 Certificates
-
----
-
+## 🧾 Certificates (School-based and Competitions)
 - Singapore Math Kangaroo Contest (SMKC) 2023 at Secondary 3/Grade 9
 - Drone Odyssey Challenge 2023
 - STEM Playground 2023 Challenge 1 "Canbridge Hold'em" 2023 at Secondary 3
@@ -68,6 +64,11 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 - 2022 Singapore IDE Sprint (Secondary)
 - 2021 Singapore IDE Robotics - Secondary Category
 - September 2021 StrITwise Edge of Automation
+
+---
+
+## 🧾 Certificates (Online)
+- Java Master Class
 - CS101 - Introduction to Computer Science with Python
 
 ---
@@ -79,7 +80,7 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 - Java Essentials by Amigoscode (Summer 2022)
 - Terminal, Bash and VIM Essentials by Amigoscode (Summer 2022)
 - CS102 - Conquer the magical STEAMvalley with PyGame (Spring 2022)
-- CS 201 - Introduction to Robotics Programming with VEX (Fall 2021)
+- CS201 - Introduction to Robotics Programming with VEX (Fall 2021)
 - CS101 - Introduction to Computer Science with Python by STEAM for Vietnam (Spring 2021)
 
 ---
