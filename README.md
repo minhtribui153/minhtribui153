@@ -22,7 +22,7 @@
 A passionate software developer with a keen interest in Artificial Intelligence.
 
 - Hands-on experience in IT
-- Likes to code and build robots
+- Like to code and build robots
 - Joined the course "Introduction to AI and Machine Learning on Google Cloud" to have a solid foundation in AI
 - Helped in-charge of Logistics for my CCA
 - Created Discord Bots to enhance users' experiences
