@@ -26,7 +26,7 @@ A passionate software developer with a keen interest in Artificial Intelligence.
 - Joined the course "Introduction to AI and Machine Learning on Google Cloud" to have a solid foundation in AI
 - Helped in-charge of Logistics for my CCA
 - Created Discord Bots to enhance users' experiences
-- Worked on AI and Data projects such as RAG, predictive projects and the Steam games dashboard
+- Worked on AI and Data projects such as a PDF Retrieval Augmented Generator, predictive projects and the Steam games dashboard
 - Currently working on a C++ Neural Network project and a game called Wavecore (coming soon)
 
 Eager to expand my knowledge and skills, I am seeking opportunities at institutions that prioritize innovation and embrace the latest technological advancements.
