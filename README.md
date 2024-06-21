@@ -19,14 +19,17 @@
 <br>
 
 # 🇸🇬 About Me
-A **Student** passionate in Software Development based in Singapore.
+A passionate software developer with a keen interest in Artificial Intelligence.
+My journey in the tech world began with the "I can be a Technopreneur" Advanced Learning
+Module at Singapore Polytechnic, which ignited my enthusiasm for innovative technology
+solutions.
 
-I am dedicated to creating innovative solutions for complex challenges.
-I have showcased my technical skills through a variety of projects, including the development of Discord Bots to enhance users' experiences.
+I have showcased my skills by creating Discord Bots to enhance users' experiences, and working on AI projects such as RAG and predictive projects.
+Eager to expand my knowledge and skills, I am seeking opportunities at institutions that prioritize innovation and embrace the latest technological advancements.
 
 - Hands-on experience in IT
 - Likes to code and build robots
-- Joined the course &quot;Introduction to AI and Machine Learning on Google Cloud&quot; to have a solid foundation in AI
+- Joined the course "Introduction to AI and Machine Learning on Google Cloud" to have a solid foundation in AI
 - Helped in-charge of Logistics for my CCA
 
 ---
@@ -45,7 +48,43 @@ I have showcased my technical skills through a variety of projects, including th
 
 ---
 
+
+## 🏆 Awards
+- Young Engineer Award (Applied Learning) by Singapore Polytechnic
+- 1st Place in Drone Programming (STEM ALP Day) by Serangoon Secondary School
+- Bronze Award in Singapore Math Kangaroo Contest (SMKC) 2024 at Secondary 4/Grade 10
+- Honorable Mention in Singapore Math Kangaroo Contest (SMKC) 2022 at Secondary 2/Grade 8
+
+---
+
+## 🧾 Certificates
+
+---
+
+- Singapore Math Kangaroo Contest (SMKC) 2023 at Secondary 3/Grade 9
+- Drone Odyssey Challenge 2023
+- STEM Playground 2023 Challenge 1 "Canbridge Hold'em" 2023 at Secondary 3
+- Robomaster 2022 Drone Tournament Singapore Site Secondary Category
+- 2022 Singapore IDE Sprint (Secondary)
+- 2021 Singapore IDE Robotics - Secondary Category
+- September 2021 StrITwise Edge of Automation
+- CS101 - Introduction to Computer Science with Python
+
+---
+
+## 🎓 Courses Attended
+- Introduction to AI and Machine Learning on Google Cloud (Summer 2023)
+- "I can be a Technopreneur" by Singapore Polytechnic (Spring 2023)
+- Java Master Class by Amigoscode (Fall 2022)
+- Java Essentials by Amigoscode (Summer 2022)
+- Terminal, Bash and VIM Essentials by Amigoscode (Summer 2022)
+- CS102 - Conquer the magical STEAMvalley with PyGame (Spring 2022)
+- CS 201 - Introduction to Robotics Programming with VEX (Fall 2021)
+- CS101 - Introduction to Computer Science with Python by STEAM for Vietnam (Spring 2021)
+
+---
+
 ## 🔥 My Statistics
 [![Minh Tri's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhtribui153&show_icons=true&layout=compact&theme=dark)](https://github.com/minhtribui153)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhtribui153&layout=compact&theme=dark)](https://github.com/minhtribui153)
+[![Top Lanuagesgs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhtribui153&layout=compact&theme=dark)](https://github.com/minhtribui153)
