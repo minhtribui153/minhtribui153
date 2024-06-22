@@ -95,6 +95,20 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 
 ---
 
+## Community Services
+- Educated the elderly on Artificial Intelligence and its applications during Digital for Life Festival 2023 at Admiralty
+- Engaged in VIA (Values-in-Action) projects to aid the community
+
+[Learn more](https://drive.google.com/file/d/1DXmYWV7PmX8BSPP0-2K6ExT_VbXJveNR/view?usp=sharing)
+
+---
+
+## Membership of Societies
+- Singapore Red Cross
+- Warden Ministry, Church of The Risen Christ
+
+---
+
 ## 🔥 My Statistics
 [![Minh Tri's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhtribui153&show_icons=true&layout=compact&theme=dark)](https://github.com/minhtribui153)
 
