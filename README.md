@@ -70,6 +70,7 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 - September 2021 StrITwise Edge of Automation
 
 [Learn more](https://drive.google.com/file/d/141nt0N3QpVb3XkQZuS48GEEX__DB6JM1/view?usp=sharing)
+
 ---
 
 ## 🧾 Certificates (Online)
@@ -77,19 +78,21 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 - [CS101 - Introduction to Computer Science with Python](https://www.steamforvietnam.org/en/courses/computer-science)
 
 [Learn more](https://drive.google.com/file/d/1d0c4mlYsSJ6PW07IdNIX7aO_WgLGylCG/view?usp=sharing)
+
 ---
 
 ## 🎓 Courses Attended
-- Introduction to AI and Machine Learning on Google Cloud (Summer 2023)
+- [Introduction to AI and Machine Learning on Google Cloud](https://www.cloudskillsboost.google/course_templates/593) (Summer 2023)
 - "I can be a Technopreneur" by Singapore Polytechnic (Spring 2023)
-- Java Master Class by Amigoscode (Fall 2022)
-- Java Essentials by Amigoscode (Summer 2022)
+- [Java Master Class by Amigoscode](https://www.amigoscode.com/courses/java-master-class) (Fall 2022)
+- [Java Essentials by Amigoscode](https://www.amigoscode.com/courses/java) (Summer 2022)
 - Terminal, Bash and VIM Essentials by Amigoscode (Summer 2022)
-- CS102 - Conquer the magical STEAMvalley with PyGame (Spring 2022)
-- CS201 - Introduction to Robotics Programming with VEX (Fall 2021)
-- CS101 - Introduction to Computer Science with Python by STEAM for Vietnam (Spring 2021)
+- [CS102 - Conquer the magical STEAMvalley with PyGame](https://www.steamforvietnam.org/en/courses/pygame) (Spring 2022)
+- [CS201 - Introduction to Robotics Programming with VEX](https://www.steamforvietnam.org/en/courses/robotics) (Fall 2021)
+- [CS101 - Introduction to Computer Science with Python by STEAM for Vietnam](https://www.steamforvietnam.org/en/courses/computer-science) (Spring 2021)
 
 [Learn more](https://drive.google.com/file/d/1KOJBVjnvyLj6032LR3ybzhELviT2HZnP/view?usp=sharing)
+
 ---
 
 ## 🔥 My Statistics
