@@ -55,7 +55,7 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 - Certificate of Participation in Singapore Math Kangaroo Contest (SMKC) 2023 at Secondary 3/Grade 9
 - Honorable Mention in Singapore Math Kangaroo Contest (SMKC) 2022 at Secondary 2/Grade 8
 
-[Learn more](https://drive.google.com/file/d/182efDkQ32pM9jaEX-Axu_U7uJaX65Epz/view?usp=sharing)
+[View more](https://drive.google.com/file/d/182efDkQ32pM9jaEX-Axu_U7uJaX65Epz/view?usp=sharing)
 
 ---
 
@@ -69,7 +69,7 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 - 2021 Singapore IDE Robotics - Secondary Category
 - September 2021 StrITwise Edge of Automation
 
-[Learn more](https://drive.google.com/file/d/141nt0N3QpVb3XkQZuS48GEEX__DB6JM1/view?usp=sharing)
+[View more](https://drive.google.com/file/d/141nt0N3QpVb3XkQZuS48GEEX__DB6JM1/view?usp=sharing)
 
 ---
 
@@ -77,7 +77,7 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 - [Java Master Class](https://www.amigoscode.com/courses/java-master-class)
 - [CS101 - Introduction to Computer Science with Python](https://www.steamforvietnam.org/en/courses/computer-science)
 
-[Learn more](https://drive.google.com/file/d/1d0c4mlYsSJ6PW07IdNIX7aO_WgLGylCG/view?usp=sharing)
+[View more](https://drive.google.com/file/d/1d0c4mlYsSJ6PW07IdNIX7aO_WgLGylCG/view?usp=sharing)
 
 ---
 
@@ -91,21 +91,15 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 - [CS201 - Introduction to Robotics Programming with VEX](https://www.steamforvietnam.org/en/courses/robotics) (Fall 2021)
 - [CS101 - Introduction to Computer Science with Python by STEAM for Vietnam](https://www.steamforvietnam.org/en/courses/computer-science) (Spring 2021)
 
-[Learn more](https://drive.google.com/file/d/1KOJBVjnvyLj6032LR3ybzhELviT2HZnP/view?usp=sharing)
+[View more](https://drive.google.com/file/d/1KOJBVjnvyLj6032LR3ybzhELviT2HZnP/view?usp=sharing)
 
 ---
 
-## Community Services
+## 🤝 Community Services
 - Educated the elderly on Artificial Intelligence and its applications during Digital for Life Festival 2023 at Admiralty
 - Engaged in VIA (Values-in-Action) projects to aid the community
 
-[Learn more](https://drive.google.com/file/d/1DXmYWV7PmX8BSPP0-2K6ExT_VbXJveNR/view?usp=sharing)
-
----
-
-## Membership of Societies
-- Singapore Red Cross
-- Warden Ministry, Church of The Risen Christ
+[View more](https://drive.google.com/file/d/1DXmYWV7PmX8BSPP0-2K6ExT_VbXJveNR/view?usp=sharing)
 
 ---
 
