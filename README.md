@@ -60,20 +60,23 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 ---
 
 ## 🧾 Certificates (School-based and Competitions)
-- Singapore Math Kangaroo Contest (SMKC) 2023 at Secondary 3/Grade 9
-- Drone Odyssey Challenge 2023
 - STEM Playground 2023 Challenge 1 "Canbridge Hold'em" 2023 at Secondary 3
+- Drone Odyssey Challenge 2023
+- First LEGO League Singapore 2022/2023 SuperPowered Challenge
 - Robomaster 2022 Drone Tournament Singapore Site Secondary Category
 - 2022 Singapore IDE Sprint (Secondary)
+- Star of the Term - Integrity (Term 2, 2022)
 - 2021 Singapore IDE Robotics - Secondary Category
 - September 2021 StrITwise Edge of Automation
 
+[Learn more](https://drive.google.com/file/d/141nt0N3QpVb3XkQZuS48GEEX__DB6JM1/view?usp=sharing)
 ---
 
 ## 🧾 Certificates (Online)
-- Java Master Class
-- CS101 - Introduction to Computer Science with Python
+- [Java Master Class](https://www.amigoscode.com/courses/java-master-class)
+- [CS101 - Introduction to Computer Science with Python](https://www.steamforvietnam.org/en/courses/computer-science)
 
+[Learn more](https://drive.google.com/file/d/1d0c4mlYsSJ6PW07IdNIX7aO_WgLGylCG/view?usp=sharing)
 ---
 
 ## 🎓 Courses Attended
@@ -86,6 +89,7 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 - CS201 - Introduction to Robotics Programming with VEX (Fall 2021)
 - CS101 - Introduction to Computer Science with Python by STEAM for Vietnam (Spring 2021)
 
+[Learn more](https://drive.google.com/file/d/1KOJBVjnvyLj6032LR3ybzhELviT2HZnP/view?usp=sharing)
 ---
 
 ## 🔥 My Statistics
