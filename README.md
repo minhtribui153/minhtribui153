@@ -22,7 +22,8 @@
 A passionate software developer with a keen interest in Artificial Intelligence.
 
 - Hands-on experience in IT
-- Like to code and build robots
+- Normally use either [Mac Mini](./Mac_Mini_M1.jpg) or [Raspberry Pi 5](./Raspberry_Pi.jpg) to work on my projects
+- Like to code and build robots with [Vex IQ](./Vex_IQ.jpg) and LEGO Mindstorms EV3
 - Joined the course "Introduction to AI and Machine Learning on Google Cloud" to have a solid foundation in AI
 - Helped in-charge of Logistics for my CCA
 - Created Discord Bots to enhance users' experiences
@@ -71,12 +72,6 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 
 [View more](https://drive.google.com/file/d/141nt0N3QpVb3XkQZuS48GEEX__DB6JM1/view?usp=sharing)
 
----
-
-## Devices I've been working with
-- [Raspberry Pi 5](./Raspberry_Pi.jpg)
-- [Vex IQ](./Vex_IQ.jpg)
-- [Mac Mini](./Mac_Mini_M1.jpg) (Can dualboot with MacOS and Fedora)
 ---
 
 ## 🧾 Certificates (Online)
