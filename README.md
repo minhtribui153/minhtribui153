@@ -75,7 +75,7 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 
 ## Devices I've been working with
 - [Raspberry Pi 5](./Raspberry_Pi.jpg)
-- Vex IQ
+- [Vex IQ](./Vex_IQ.jpg)
 - [Mac Mini](./Mac_Mini_M1.jpg) (Can dualboot with MacOS and Fedora)
 ---
 
