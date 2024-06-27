@@ -52,7 +52,7 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 ## 🏆 Awards (School-based)
 - Bronze Award in Singapore Math Kangaroo Contest (SMKC) 2024 at Secondary 4/Grade 10
 - Young Engineer Award (Applied Learning) by Singapore Polytechnic
-- 1st Place in Drone Programming (STEM ALP Day) by Serangoon Secondary School
+- 1st Place in [Drone Programming (STEM ALP Day)](https://drive.google.com/file/d/1c2f4IsqwlWjceMNh1Di3Wu-s1Vi8LxYZ/view) by Serangoon Secondary School
 - Certificate of Participation in Singapore Math Kangaroo Contest (SMKC) 2023 at Secondary 3/Grade 9
 - Honorable Mention in Singapore Math Kangaroo Contest (SMKC) 2022 at Secondary 2/Grade 8
 
