@@ -73,6 +73,12 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 
 ---
 
+## Devices I've been working with
+- Raspberry Pi 5
+- Vex IQ
+- Mac Mini (Can dualboot with MacOS and Fedora)
+---
+
 ## 🧾 Certificates (Online)
 - [Java Master Class](https://www.amigoscode.com/courses/java-master-class)
 - [CS101 - Introduction to Computer Science with Python](https://www.steamforvietnam.org/en/courses/computer-science)
