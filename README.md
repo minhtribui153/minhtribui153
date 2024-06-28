@@ -61,6 +61,7 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 ---
 
 ## 🧾 Certificates (School-based and Competitions)
+- Intel AI For Youth (2023)
 - STEM Playground 2023 Challenge 1 "Canbridge Hold'em" 2023 at Secondary 3
 - Drone Odyssey Challenge 2023
 - First LEGO League Singapore 2022/2023 SuperPowered Challenge
