@@ -28,9 +28,12 @@ A passionate software developer with a keen interest in Artificial Intelligence.
 - Helped in-charge of Logistics for my CCA
 - Created Discord Bots to enhance users' experiences
 - Worked on AI and Data projects such as a PDF Retrieval Augmented Generator, predictive projects and the Steam games dashboard
-- Currently working on a C++ Neural Network project and a game called Wavecore (coming soon)
 
 Eager to expand my knowledge and skills, I am seeking opportunities at institutions that prioritize innovation and embrace the latest technological advancements.
+
+I'm currently:
+- Working on a Neural Network project
+- Researching about Inter-connected Neural Networks (IcNNs), focusing towards Self-Directed Intelligence (SDI) after breakthrough of Artificial Super Intelligence (ASI)
 
 ---
 
