@@ -33,7 +33,7 @@ Eager to expand my knowledge and skills, I am seeking opportunities at instituti
 
 I'm currently:
 - Working on a Neural Network project
-- Researching about Inter-connected Neural Networks (IcNNs), focusing towards Self-Directed Intelligence (SDI) after breakthrough of Artificial Super Intelligence (ASI)
+- Researching about Inter-connected Neural Networks (IcNNs), focusing towards Self-Governance Intelligence (SGI) after breakthrough of Artificial Super Intelligence (ASI)
 
 ---
 
